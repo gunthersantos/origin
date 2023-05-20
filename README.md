@@ -6,3 +6,4 @@
 
 * Comando Git Push
 * Comando Git Pull
+* novo comando
