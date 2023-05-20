@@ -5,4 +5,4 @@
 ## Add new changes in the content
 
 * Comando Git Push
-* Comando Git Pull
+* Comando Git Pull 2
